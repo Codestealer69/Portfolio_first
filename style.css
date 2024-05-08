@@ -278,7 +278,7 @@ section{
 }
 .home-imghover:hover{
     background:var(--bg-color);
-    opacity: .2;
+    opacity: 0;
 }
 .about{
     display: flex;
